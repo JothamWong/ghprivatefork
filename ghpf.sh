@@ -1,5 +1,3 @@
-#!/bin/bash
-
 ghpf() {
     if [ -z "$1" ]; then
         echo "Usage: $0 <repository_url> [destination_name]"
