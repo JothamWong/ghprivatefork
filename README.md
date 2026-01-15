@@ -20,3 +20,7 @@ file. Source the file to use the function.
 Run `ghpf <repository_url> [destination_name]`.
 
 The script essentially does nothing if you already have a private fork of the existing repository.
+
+## Acknowledgements
+
+https://gist.github.com/0xjac/85097472043b697ab57ba1b1c7530274
